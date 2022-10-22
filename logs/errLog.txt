@@ -1,0 +1,9 @@
+20221019 11:35:24	5d4f348b-4114-48b2-8e84-d179835e87a4	Error: Not allowed by CORS
+20221019 22:06:08	dcdf7f63-2af0-4e08-a9a3-61fc2e777d35	TypeError: req.accepted is not a function
+20221019 22:06:24	81594339-28a3-455e-805a-e692ac02691b	TypeError: req.accepted is not a function
+20221019 22:06:29	dd621891-ccea-408c-9a41-881d99ba9796	TypeError: req.accepted is not a function
+20221019 23:04:53	520b2988-0880-4492-9cf8-08cea63ba732	TypeError: req.json is not a function
+20221019 23:06:20	d8ec954e-a926-4ddb-844b-7cb9495cde8f	TypeError: req.json is not a function
+20221020 17:19:22	1046d8e9-285b-42fe-b750-42d77d97b527	ReferenceError: unsortedArray is not defined
+20221020 17:19:27	76ba414f-acec-4103-9729-caaff978f4eb	ReferenceError: unsortedArray is not defined
+20221020 17:19:51	c6b45776-c7aa-4a7f-9fad-7d01dcd3b43f	ReferenceError: unsortedArray is not defined
