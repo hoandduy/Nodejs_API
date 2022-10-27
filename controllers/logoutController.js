@@ -30,7 +30,7 @@ const handleLogout = async (req, res) => {
 	const currentUser = { ...foundUser, refreshToken: '' }
 	usersDB.setUsers([...otherUsers, currentUser])
 	await fsPromises.writeFile(
-		path.join(__dirname, '..', 'model', 'users'),
+		path.join(__dirname, '..', 'model', 'users.json'),
 		JSON.stringify(usersDB),
 	)
 

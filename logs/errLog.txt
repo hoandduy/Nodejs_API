@@ -4,3 +4,5 @@
 20221025 09:47:26	eeb7ef0b-38d8-4454-8323-247749e24473	TypeError: whiteList.indexOf is not a function
 20221025 11:29:37	a65846e4-eaef-4200-9bd6-786f78b7dc76	TypeError: res.sendstatus is not a function
 20221025 11:29:39	a333c2d2-6a52-490b-a446-1ca8bc6019c4	TypeError: res.sendstatus is not a function
+20221026 10:41:30	85d47605-a05d-4872-a973-e3b705cc8a72	Error: Not allowed by CORS
+20221026 10:41:53	cfb537dc-0d5c-42e5-b197-9fcd6f3b435d	Error: Not allowed by CORS
