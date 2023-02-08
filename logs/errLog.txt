@@ -14,3 +14,6 @@
 20221027 14:49:33	e721072f-3192-4b9f-ac41-e551899b9085	Error: Not allowed by CORS
 20221027 14:49:35	15afdb74-d01c-4748-8f22-2b57109c39b5	Error: Not allowed by CORS
 20221027 14:49:35	cb732712-5750-4c79-900b-5f92a0e17109	Error: Not allowed by CORS
+20221210 22:50:35	0c01fb2d-f375-4059-9f4e-86281797a96f	TypeError: name argument is required to req.get
+20221210 22:51:24	0d8f44dc-4318-45db-a0d8-353e909f028e	TypeError: Cannot read properties of undefined (reading 'origin')
+20221210 22:56:11	e8e6cbab-a52a-463b-aca5-c1f08f56d189	ReferenceError: host is not defined
